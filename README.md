@@ -1,6 +1,6 @@
 # campus-demo
 This is my first github repository
 <br>
-<b>
+<b> <i>
 Author: mira taman
-<b>
+<i> <b>
